@@ -1,0 +1,13 @@
+{
+  "name": "node_simple_server",
+  "version": "1.0.0",
+  "description": "a simple server for study ",
+  "main": "index.js",
+  "repository": "git@github.com:geyu210/node_simple_server.git",
+  "author": "geyu <geyu210@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "type": "^2.7.2"
+  }
+}
